@@ -1,0 +1,9 @@
+const String kDatabaseId = 'xapzap_db';
+const String kProfilesCollectionId = 'profiles';
+const String kPostsCollectionId = 'posts';
+const String kReportsCollectionId = 'reports';
+const String kBoostsCollectionId = 'postboosts';
+const String kAdRevenueCollectionId = 'ad_revenue_events';
+const String kPayoutsCollectionId = 'creator_payouts';
+const String kSupportRequestsCollectionId = 'support_requests';
+const String kBalancesCollectionId = 'creator_balances';
